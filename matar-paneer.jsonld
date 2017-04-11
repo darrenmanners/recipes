@@ -6,26 +6,33 @@
   "cookTime": "PT1H",
   "datePublished": "2017-04-11",
   "description": "Matar Paneer (Peas and Paneer)",
+  "recipeCuisine": "Indian",
+  "video": "https://www.youtube.com/watch?v=v8pW-NYO-5Q",
   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5YfFargJrmI8FKkrLD49_K5_HveQ97RsQs3Mc3YPCmf3sjWRo9A",
   "recipeIngredient": [
     "Oil",
-    "Onion",
-    "Green Chilli",
-    "Cummin Seeds",
-    "Ginger + Garlic Paste",
+    "1 Roughly Chopped Onion",
+    "1/2 Green Chilli",
+    "~1tsp Cummin Seeds",
+    "~1Tbsp Ginger + Garlic Paste",
     "Coriander Stalks",
-    "Salt",
+    "~2tsp Salt",
     "Chilli Power",
-    "Tumeric",
-    "Peas",
-    "Butter",
-    "Paneer",
+    "~1/2tsp Tumeric",
+    "Can of Tomato (or 2 Chopped Tomatoes)",
+    "~1 Cup Peas",
+    "A Stick or 2Tbsp of Butter",
+    "200g of Paneer or Potatoes",
     "Fresh Coriander",
     "Garam Masala"
   ],
-  "interactionStatistic": {
-    "@type": "InteractionCounter",
-    "interactionType": "http://schema.org/Comment",
-    "userInteractionCount": "5"
-  }
+  "recipeInstructions": [
+    "Heat oil on medium-high heat",
+    "Add the Onion and Chilli, cover and cook until soft/brown",
+    "Add the Cummin and let them pop",
+    "Mix the Ginger/Garlic Paste, Coriander Stalks, Salt, Chilli and Tumeric Powder in a small bowl and add to the Onions",
+    "Once the oil starts to seperate again, add the can of Tomatoes and Peas, cook until oil seperates",
+    "Add Butter and stir through",
+    "Finally add Paneer or Cooked Potatoes, stir through Fresh Coriander and pinch of Garam Masala"
+  ]
 }

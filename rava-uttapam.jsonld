@@ -22,11 +22,18 @@
         "onion",
         "tomato",
         "capsican",
-        "coriander"
+        "coriander",
+        "oil"
       ]
-    },
-    "oil"
-
+    }
   ],
-  "recipeInstructions": ["mix all ingrediants of the paste together in a bowl, let it rest for at least 15 mins.", "chop up the toppings to all same size, approx thumbsize.", "heat skillet on med heat with splashes of oil.", "spoon in some paste and spread with back of spoon", "sprinkle toppings on top, with additional oil", "cover with lid, and let bottom cook", "flip over and cover with lid again until cooked"]
+  "recipeInstructions": [
+    "mix all ingrediants of the paste together in a bowl, let it rest for at least 15 mins.",
+    "chop up the toppings to all same size, approx thumbsize.",
+    "heat skillet on med heat with splashes of oil.",
+    "spoon in some paste and spread with back of spoon",
+    "sprinkle toppings on top, with additional oil",
+    "cover with lid, and let bottom cook",
+    "flip over and cover with lid again until cooked"
+  ]
 }
