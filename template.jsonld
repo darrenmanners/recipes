@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "name": "",
+  "author": "Darren Manners",
+  "cookTime": "",
+  "datePublished": "",
+  "description": "",
+  "recipeCuisine": "",
+  "video": {
+    "name": "",
+    "description": "",
+    "thumbnailUrl": "",
+    "uploadDate": "",
+    "author": ""
+  },
+  "image": "",
+  "recipeIngredient": [
+    ""
+  ],
+  "recipeInstructions": [
+    ""
+  ]
+}

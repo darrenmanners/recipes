@@ -5,9 +5,15 @@
   "author": "Darren Manners",
   "cookTime": "PT1H",
   "datePublished": "2017-04-11",
-  "description": "Matar Paneer (Peas and Paneer)",
+  "description": "Recipe on how to cook matar paneer. Initial recipe taken from youtube (see video reference).",
   "recipeCuisine": "Indian",
-  "video": "https://www.youtube.com/watch?v=v8pW-NYO-5Q",
+  "video": {
+    "name": "https://www.youtube.com/watch?v=v8pW-NYO-5Q",
+    "description": "",
+    "thumbnailUrl": "",
+    "uploadDate": "",
+    "author": "Get Curried"
+  },
   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5YfFargJrmI8FKkrLD49_K5_HveQ97RsQs3Mc3YPCmf3sjWRo9A",
   "recipeIngredient": [
     "Oil",
