@@ -4,6 +4,14 @@
   "name": "",
   "author": "Darren Manners",
   "cookTime": "",
+  "preptime": "PT10M",
+  "aggregateRating": {
+    "ratingValue": "4.5", 
+    "ratingCount": "1"
+  }, 
+  "nutrition": {
+    "calories": 0
+   },
   "datePublished": "",
   "description": "",
   "recipeCuisine": "",

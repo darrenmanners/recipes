@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "name": "Rava Uttapam",
+  "author": "Darren Manners",
+  "cookTime": "PT30M",
+  "preptime": "PT10M",
+  "aggregateRating": {
+    "ratingValue": "3",
+    "ratingCount": "1"
+  },
+  "nutrition": {
+    "calories": 2500
+  },
+  "datePublished": "2017-04-11",
+  "description": "Indian dish, primarily cooked for breakfast. Savory Pancake.",
+  "recipeCuisine": "Indian",
+  "video": {
+    "name": "https://www.youtube.com/watch?v=y45WCUhEM-g",
+    "description": "Rava/Sooji/Suji Uttapam Easy Breakfast Recipe. Detailed Recipe: http://www.veggierecipehouse.com/2017... Follow us on facebook https://www.facebook.com/recipehouse/",
+    "thumbnailUrl": "https://i.ytimg.com/vi/y45WCUhEM-g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4RSw1ZX_U2xyb_GUzUDNGfKsLRk",
+    "uploadDate": "2017-03-23",
+    "author": "Veggie House Recipe"
+  },
+  "image": "https://i.ytimg.com/vi/y45WCUhEM-g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4RSw1ZX_U2xyb_GUzUDNGfKsLRk",
+  "recipeIngredient": [
+    "50g Yogurt",
+    "100g of water",
+    "120g Semonlina Flour",
+    "Pinch of Salt",
+    "Pinch of Garam Masala",
+    "onion",
+    "tomato",
+    "capsican",
+    "coriander",
+    "oil"
+  ],
+  "recipeInstructions": [
+    "mix the yogurt, water, flour, salt and garam masala in a bowl, let it rest for at least 15 mins.",
+    "chop up the toppings to all same size, approx thumbsize.",
+    "heat skillet on med heat with splashes of oil.",
+    "spoon in some paste and spread with back of spoon",
+    "sprinkle toppings on top, with additional oil",
+    "cover with lid, and let bottom cook",
+    "flip over and cover with lid again until cooked"
+  ]
+}
