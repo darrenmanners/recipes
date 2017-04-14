@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "name": "Pancakes",
+  "author": "Darren Manners",
+  "cookTime": "PT30M",
+  "preptime": "PT5M",
+  "aggregateRating": {
+    "ratingValue": "4.5", 
+    "ratingCount": "15"
+  }, 
+  "nutrition": {
+    "calories": 0
+   },
+  "datePublished": "2015-04-24",
+  "description": "Basic pancakes created with scales",
+  "recipeCuisine": "Unknown",
+  "video": {
+    "name": "",
+    "description": "",
+    "thumbnailUrl": "",
+    "uploadDate": "",
+    "author": ""
+  },
+  "image": "",
+  "recipeIngredient": [
+    "210g Milk", 
+    "30g Sugar",
+    "50g Egg (1 Egg)",
+    "150g Self Raising Flour"
+  ],
+  "recipeInstructions": [
+    "Whisk the Milk, Sugar and Egg", 
+    "Sift the Flour into the whisked mixture.",
+    "Dough Whisk flour and mixture until constant consitenancy",
+    "The more mixing you do, the chewier it will get. Less mixing is optimal",
+    "Let rest for at least 5-10 Mins."
+
+  ]
+}

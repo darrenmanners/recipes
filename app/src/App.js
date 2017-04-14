@@ -6,6 +6,7 @@ import './App.css';
 const Recipe = (props) => {
   return (
     <div>
+      <h2>Title</h2>
       Recipe Section
     </div>
 
